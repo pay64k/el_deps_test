@@ -1,0 +1,3 @@
+%{
+  "plug": {:hex, :plug, "1.0.0", "dfb6e50cebdde4dd338d175df9b067e8e2e3a34e8b7b61aba6f5213cf7d13000", [:mix], [{:cowboy, "~> 1.0", [hex: :cowboy, repo: "hexpm", optional: true]}], "hexpm"},
+}
